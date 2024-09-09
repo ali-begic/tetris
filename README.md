@@ -2,6 +2,8 @@
 
 **Tetris** is a highly polished and accurate replica of the original classic game, built with the Qt framework. This cross-platform application offers the familiar gameplay experience with smooth controls, a scoring system, and a next-piece preview window. Whether you're a seasoned Tetris player or new to the game, this version captures the essence of the timeless puzzle with precision.
 
+![tetris-capture2](https://github.com/user-attachments/assets/f8ed4b14-9570-4dbc-a798-6e7198a192bd)
+
 ## Features of the Tetris Qt Game
 
 ### Cross-Platform Compatibility
