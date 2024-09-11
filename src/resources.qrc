@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/blocks">
+        <file>blocks/blue_block.png</file>
+        <file>blocks/green_block.png</file>
+        <file>blocks/lightblue_block.png</file>
+        <file>blocks/orange_block.png</file>
+        <file>blocks/purple_block.png</file>
+        <file>blocks/red_block.png</file>
+        <file>blocks/yellow_block.png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>tetrisLogoWhite.png</file>
+    </qresource>
+    <qresource prefix="/tetromines">
+        <file>tetromines/blue_tetromine.png</file>
+        <file>tetromines/green_tetromine.png</file>
+        <file>tetromines/lightblue_tetromine.png</file>
+        <file>tetromines/orange_tetromine.png</file>
+        <file>tetromines/purple_tetromine.png</file>
+        <file>tetromines/red_tetromine.png</file>
+        <file>tetromines/yellow_tetromine.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>tetris.ico</file>
+    </qresource>
+</RCC>
